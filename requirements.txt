@@ -93,3 +93,4 @@ ftfy~=5.5.0
 #           support
 tqdm~=4.62.3
 ipywidgets~=7.6.5
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
